@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="HardBlue">#0f123f</color>
+    <color name="Medium">#0c2d5b</color>
+    <color name="Light1">#0a5094</color>
+    <color name="Light2">#0b6baf</color>
+    <color name="Light3">#0c86ca</color>
+    <color name="Light4">#52a3bb</color>
+    <color name="Light5">#8ab9cc</color>
+
+    <color name="tvTitle">#0f123f</color>
+    <color name="strokeColor">#0f123f</color>
+    <color name="workColors">#0f123f</color>
+
+
+</resources>
